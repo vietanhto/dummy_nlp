@@ -1,0 +1,6 @@
+[package]
+name = "dummy_nlp"
+version = "0.1.0"
+authors = ["Viet Anh To <vietto@amazon.com>"]
+
+[dependencies]
